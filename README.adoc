@@ -1,0 +1,71 @@
+:toc:
+:numbered:
+:author: Muhammad Dhenandi Putra
+
+= My New openSUSE Leap 15 Configuration
+
+Hello,
+
+I've just installed openSUSE Leap on My Old Notebook because i just bought an SSD :D.
+
+This is my notebook spec:
+
+. ASUS x450JB (Bought on 2015)
+. Intel® Core™ i7-4720HQ CPU @ 2.60GHz × 8 
+. 12 GB RAM
+. SSD 240 GB (Samsung 860 EVO)
+. SATA HDD 1 TB
+. NVIDIA GeForce 940m
+
+I want to share how i configuring and customizing after i installing the openSUSE on my ASUS. Below is the items :
+
+. Change to local mirror repo (repo.opensuse.id)
+. Add Packman Repo
+. Update and Upgrade Systems
+. Codec Installation
+. VLC Installation
+. MP4/H.264 Support on Firefox
+. Flash Player Installation
+. Installed GNOME Extensions
+. Customizing theme using Arc theme
+. Customizing theme using Numix Icon
+. Customizing desktop with Dash to Dock
+. Preferences Configuration
+. Swipe 3 Finger
+. Font Installation
+. Shortcut Setup
+
+. Set Wallpaper
+. Disable vconsole error when boot
+. Opera Browser Installation
+. Git Installation
+. Docker Installation
+. VirtualBox Installation
+. Vagrant Installation
+. Visual Studio Code Installation
+. Terminal Modification using ZSH
+. Telegram Desktop Installation
+. SynologyDrive Installation
+. NVIDIA Bumblebee
+. etc
+
+
+
+*Note*: I use BTRFS Partition. Benefits if you use BTRFS system you can do system restore/snapshot on your openSUSE.
+
+== Preamble
+
+First, after bought SSD, i have download the ISO on https://repo.opensuse.id and burn to USB disk using BalenaEtcher.
+
+When installation running, i use BTRFS Systems and disable the snapshot. I will use snapshot manually.
+
+And i use GNOME for my Desktop Environtment. 
+
+After update.
+
+. Firefox Update to 60
+. 
+
+Preferences:
+. Natural Scrolling
+. 
