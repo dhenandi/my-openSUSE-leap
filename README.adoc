@@ -34,6 +34,7 @@ I want to share how i configuring and customizing after i installing the openSUS
 . Swipe 3 Finger
 . Font Installation
 . Shortcut Setup
+. Carebro
 
 . Set Wallpaper
 . Disable vconsole error when boot
